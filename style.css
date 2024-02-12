@@ -162,7 +162,7 @@ body {
  }
  
  .valentines-day:hover .heart {
-   transform: translateY(-50px) rotate(-45deg);
+   transform: translateY(-50px) rotate(-50deg);
  }
  
  .valentines-day:hover .text {
