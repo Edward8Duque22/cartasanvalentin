@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Sacramento');
+@import url('https://fonts.googleapis.com/css?family=Century-Gothic');
 
 #card {
    height:500px;
@@ -46,7 +46,7 @@ body {
    align-items: center;
    justify-content: center;
    height: 100vh;
-   font-family: 'Sacramento', cursive;
+   font-family: 'Century Gothic', cursive;
    background-color: #f1e3d3;
    overflow: hidden;
  }
